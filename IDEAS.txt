@@ -1,0 +1,79 @@
+WILL EVOLVE AS TIME GOES NOT SET IN STONE.
+
+MAP:
+Implementation of cars to travel between cities; presence of a ressource meter to be used while the travel.
+
+Also certain character can have boats used to travel by sea, possibility of planes we just have to see.
+
+Map styling to be discused.
+
+
+
+FIGHT:
+Turn base battle bigger scale then 4X3 thinking 5X4.
+
+Presence of cover.
+
+Range character can shoot over cover and cover have certain amount of hp cannot be knockback.
+
+Different level of cover for different durability.
+
+In the type of damage they interact with each other exemple:
+
+	if the target is burning and they are attacked with a wind attack the burning damage will be amplified;
+
+	if the target is burning and they are attacked with a water attack the burning damaage will stop;
+
+	if the target is frozen and they are attacked with a fire attack the frozen state will stop;
+
+	if the target is bleeding and they are attacked with a fire attack the bleed effect will stop because the wound will be cautorized;
+
+
+
+
+
+
+
+GOON BUDS:
+Possibilitie of COOP with some friends for the story or events:
+
+instead of Arknights two different floor same grid but gets bigger exponentially.
+
+
+
+BASE BUILDING:
+Can use the champs that are pull for some type of town defense/tycoon for resource grind.
+
+Cars and boats that are pulled can be put on a showcase parking lot and harbor, can also be shared with friends and guild membres.
+
+With the boats you can send out expeditions.
+
+While on expeditions you cannot use the champs you sent out gives a use for unused champs.
+
+Different boats have differents speed for ressource collecting and can take different amount of people.
+
+Some can have more space but are slower and some can have more speed but less space.
+
+
+
+
+GENERAL SYSTEMS:
+Gatcha system for pulling baddies.
+
+Using a 5 star for rarity.
+
+
+EQUIPEMENT:
+
+Main weapon gives bost to basic attack or magic attack.
+
+Helmet increase magic defense of armor.
+
+Glove increase to crit damage.
+
+Up to five ring can be equiped each give minor stats:
+	Thumb more attack
+	Index crit damage
+	Middle max hp
+	Ring defense
+	Pinky crit change
